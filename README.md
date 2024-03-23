@@ -131,3 +131,5 @@ The ROC curve plots the True Positive Rate (TPR) against the False Positive Rate
 
 ## **Conclusion**
 Overall, the results, although not high, are still acceptable. The relatively lower performance may be attributed to the small size of the dataset, indicating a need for more data to better train the model. However, the most significant factor could be that news is not the sole determinant of stock value changes; there are numerous other influential factors. Therefore, the current model's complexity might not be sufficient to accurately predict these changes.
+
+*Read my report for more details* [report.docx](report.docx)
